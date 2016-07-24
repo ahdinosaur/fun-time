@@ -1,0 +1,19 @@
+{
+  "name": "fun-time",
+  "version": "0.0.0",
+  "description": "a fun time standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/fun-time.git"
+  },
+  "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.os)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/fun-time/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/fun-time#readme"
+}
